@@ -8,5 +8,5 @@
 - [My talk on how to build a cookbook in Python has been accepted for PyLadiesCon, online this December. →](https://2025.conference.pyladies.com/en/)
 <!-- blog end -->
 
-<sub>Last updated on <!-- last_updated start -->2025-11-16<!-- last_updated end --></sub>
+<sub>Last updated on <!-- last_updated start -->2025-11-17<!-- last_updated end --></sub>
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
